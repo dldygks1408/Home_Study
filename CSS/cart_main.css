@@ -1,0 +1,81 @@
+.cart-background {
+  width: 100%;
+  padding: 20px;
+  background-color: lightskyblue;
+}
+
+.cart-form-container {
+  width: 100%;
+  background-color: white;
+  max-width: 800px;
+  margin: auto;
+}
+
+.cart-table {
+  width: 100%;
+  background-color: white;
+  border-radius: 5px;
+  border-collapse: collapse;
+}
+
+.cart-table td,
+.cart-table th {
+  border-bottom: 1px solid rgb(0, 174, 255);
+}
+
+td,
+th {
+  padding: 15px;
+}
+
+.cart-item {
+  width: 40%;
+  text-align: left;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-brown:hover {
+  background-color: chocolate;
+}
+
+/* .btn-brown:focus {
+  background-color: red;
+} */
+
+.btn-brown:active {
+  background-color: brown;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:link {
+  color: black;
+}
+
+.link:visited {
+  color: red;
+}
+
+.a-btn {
+  padding: 10px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: coral;
+  color: white;
+  cursor: pointer;
+}
+
+.btn-brown {
+  background-color: coral;
+  color: white;
+}
